@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.params=
+comment0.target=SmoothMover()
+comment1.params=speed
+comment1.target=SmoothMover(Vector)
+comment1.text=\r\n\ Create\ new\ thing\ initialised\ with\ given\ speed.\r\n
+comment2.params=
+comment2.target=void\ move()
+comment2.text=\r\n\ Move\ forward\ one\ step.\r\n
+comment3.params=x\ y
+comment3.target=void\ setLocation(double,\ double)
+comment3.text=\r\n\ Providing\ 'setLocation'\ based\ on\ double\ x,\ y.\ \r\n\ This\ will\ eventually\ call\ the\ Actor\ (superclass)\ \r\n\ setLocation\ method.\r\n
+comment4.params=x\ y
+comment4.target=void\ setLocation(int,\ int)
+comment4.text=\r\n\ Override\ the\ Actor\ setLocation\ method\ to\ keep\ \r\n\ our\ own\ coordinates\ up-to-date.\r\n
+comment5.params=s
+comment5.target=void\ increaseSpeed(Vector)
+comment5.text=\r\n\ Increase\ the\ speed\ with\ the\ given\ vector.\r\n
+comment6.params=
+comment6.target=Vector\ getSpeed()
+comment6.text=\r\n\ Return\ the\ current\ speed.\r\n
+comment7.params=
+comment7.target=boolean\ atWorldEdge()
+comment7.text=\r\n\ Test\ if\ this\ actor\ is\ at\ the\ edge\ of\ world.\r\n\ @return\ true\ if\ at\ world's\ edge\r\n
+numComments=8

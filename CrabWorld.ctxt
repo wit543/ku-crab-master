@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=
+comment0.target=CrabWorld()
+comment1.params=
+comment1.target=void\ setTime()
+comment2.params=cX\ cY
+comment2.target=void\ moveBackground(int,\ int)
+comment3.params=actor
+comment3.target=void\ addObject(greenfoot.Actor)
+comment3.text=\r\n\ add\ an\ actor\ to\ the\ world\ at\ a\ random\ location.\r\n\ @param\ actor\ is\ the\ object\ to\ add\ to\ the\ world\r\n
+comment4.params=
+comment4.target=void\ act()
+comment5.params=
+comment5.target=void\ init()
+numComments=6
